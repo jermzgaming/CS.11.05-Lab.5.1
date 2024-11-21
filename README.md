@@ -48,7 +48,6 @@ There are also miscellaneous methods that require more complicated logic which s
 Explanation: 
 1. getCountryTotalWastePerYear takes in a country to find its total waste per capita per year in kg
 2. getCountryWithMostWastePerCapita returns the country with the highest total waste per capita per year in kg
-3. getCountriesWithHighestPovertyPercentage(countries, percentagesShareInPoverty)
 3. getCountriesWithHighestPovertyPercentage returns an array of countries with the highest % of its population living in poverty. (Note: This implies that multiple countries have the same number of individuals living in poverty. This number also coincidentally is the largest number in the  array)
 4. getCountriesWithHighConfidence returns an array of countries where the confidence of its food waste data is high (The corresponding String in the confidences array is: "High Confidence")
 
